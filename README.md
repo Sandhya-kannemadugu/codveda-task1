@@ -13,15 +13,26 @@ The Simple Calculator task focuses on building a basic Python program that can p
 
 ###Key Activities – Simple Calculator Task
 1.Designing Functions:
+
 Defined separate functions for addition, subtraction, multiplication, and division.
+
 2.User Interaction:
+
 Implemented input prompts for the user to enter two numbers and choose an operation.
+
 3.Conditional Logic:
+
 Used if-elif-else statements to execute the selected mathematical operation.
+
 4.Error Handling:
+
 Added checks for invalid inputs.
+
 Handled division by zero using exception handling.
+
+
 5.Testing and Validation:
+
 Tested the calculator with multiple input values to ensure accuracy and reliability.
 
 
