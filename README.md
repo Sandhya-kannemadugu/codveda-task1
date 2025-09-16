@@ -1,7 +1,11 @@
 Name:Sandhya kannemadugu
+
 Company:CODVEDA TECHNOLOGIES
+
 ID:CV/A1/41033
+
 Domain:Python Development Intern
+
 Duration:09/09/2025 – 09/10/2025
 
 ##Overview Of the Task
