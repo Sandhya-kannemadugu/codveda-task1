@@ -12,18 +12,18 @@ Duration:09/09/2025 – 09/10/2025
 The Simple Calculator task focuses on building a basic Python program that can perform four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The task requires creating individual functions for each operation, handling user input to select the desired calculation, and implementing error handling to manage cases such as division by zero. This task strengthens foundational Python skills like functions, conditional statements, user input handling, and exception management, while also providing a practical application of problem-solving using programming.
 
 ###Key Activities – Simple Calculator Task
-Designing Functions:
+1.Designing Functions:
 Defined separate functions for addition, subtraction, multiplication, and division.
-User Interaction:
+2.User Interaction:
 Implemented input prompts for the user to enter two numbers and choose an operation.
-Conditional Logic:
+3.Conditional Logic:
 Used if-elif-else statements to execute the selected mathematical operation.
-Error Handling:
+4.Error Handling:
 Added checks for invalid inputs.
 Handled division by zero using exception handling.
-Testing and Validation:
+5.Testing and Validation:
 Tested the calculator with multiple input values to ensure accuracy and reliability.
-:
+
 
 🔹 Technologies / Concepts Used:
 
